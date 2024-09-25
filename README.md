@@ -1,12 +1,13 @@
-# Chronicles-of-Valor-The-Legendary-Sword
+# stok-Barang
 
 ## Pendahuluan
 
-untuk saat ini banyak warga  indonesia tidak tertarik dengan ganme gamen pc  projek bertujuan membuat game game buatan lokal makin berkembang dan game game untuk pc diminati oleh kalangan warga indonesia
-## Isi
-
-game ini dibuat menggunakan unity, game ini menggunakan platform 2d, bahasa yang digunakan dalam pembuatan projek ini adalah c# dan projek ini memiliki beberapa fitur seperti, save, on/off sound, dan load game, projek ini menggunakan beberapa level yang setiap levelnya memiliki musuh musuh yang berbeda,da ketebalan musuh setiap level berbeda
+untuk saat ini industri banyak sekali yang menggunakan banyak barang, pasti akan melelahkan jika dilakukan manual, dibuat applikasi ini untuk membuat pekerjaan yang membutuhkan memasukkan atau mengeluarkan banyak data lebih efesien dan akurat karena yang berawal manual beralih ke systeam
+## Isik
+aplikasi ini dibuat menggunakan php lativ dan ddatabasenya mysql dan server web nya menggunakan apache, dibuat menggunakan visual studio code sebagai penulis code, fiturfitur aplikasi ini adalah CRUD Data Barang, tambah pemasukan data barang dan pengurangan data barang 
 
 ## Kesimpulan
+dengan adanya aplikasi ini memperrmudah pekerjaan yang membutuhkan banyak operasi data dan bekerja lebih efesien dan meminimalisis kesalahan dalam bekerja, yang awalnya mennggunakan perhitungan manusia diubah menggunakan perhitungan mesin
 
-projek ini bertujuan untuk menarik perhatian kepada masyaarakat indonesia, dan mengembangkan industri gamenya, game ini juga memniki beberapa fitur seperti load save dan on/off sound
+link
+https://github.com/Hanif0121/StokBarang
